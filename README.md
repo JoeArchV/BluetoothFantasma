@@ -1,4 +1,4 @@
-#### BluetoothFantasma V1
+#### BluetoothFantasma V2
 ###### No me hago responsable de nada de lo que cause este script uselo con cuidado funciona en archlinux y debian
 
 ##### Dependencias
