@@ -13,3 +13,9 @@ sudo yay -S bluez-deprecated-tools
 ```shell
 https://github.com/JoeArchV/BluetoothFantasma.git
 ```
+
+##### Para escanear dispositivos use
+
+```shell
+hcitool scan
+```
