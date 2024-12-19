@@ -19,3 +19,6 @@ https://github.com/JoeArchV/BluetoothFantasma.git
 ```shell
 hcitool scan
 ```
+
+###### Maximo de paquetes 600
+
